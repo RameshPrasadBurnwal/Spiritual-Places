@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container1{
+    background-image:url("https://as1.ftcdn.net/v2/jpg/08/14/92/98/1000_F_814929825_L0snNMyYFAtUes7BHdeT58whNR15T7fv.jpg");
+    background-size:cover;
+}
+
+.home-card{
+    background-color:white;
+    background-size:cover;
+    height:30vh;
+    border-top-left-radius:80px;
+    border-top-right-radius:80px;
+    text-align:center;
+}
+.heading-card{
+    color:blue;
+    font-family:"Roboto";
+    font-size:150px;
+    font-weight:bolder;
+    font-style:italic;
+    text-decoration:underline;
+}
+.paragraph-card{
+    font-family:"Roboto";
+    font-size:100px;
+    font-weight:lighter;
+    color:grey;
+    font-style:normal;
+}
+.button{
+    height:200px;
+    width:600px;
+    font-size:60px;
+    border-radius:25px;
+    background-color:aqua;
+    border-width:10px;
+    border-style:solid;
+    font-weight:bolder;
+}
+
+
+
+.favourite-place-bg-container-1{
+    background-image:url("https://as1.ftcdn.net/v2/jpg/08/14/92/98/1000_F_814929851_hUcDd5wwejWU4AbHzA3bBOl6Uy1Ph5Jy.jpg");
+    background-size:cover;
+    height:100vh;
+    padding:10px;
+}
+.fav-card-heading{
+    font-size:170px;
+    color:#00ff62;
+    font-family:"Roboto";
+    font-style:italic;
+    font-weight:bolder;
+    text-decoration:underline;
+}
+.fav-card-bg-container{
+    background-color:white;
+    background-size:cover;
+    height:30vh;
+    border-radius:25px;
+    padding:15px;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+
+.heading-fav-place{
+    font-family:"Roboto";
+    font-weight:bolder;
+    font-size:150px;
+    font-weight:bolder;
+}
+.paragraph-fav-place{
+    font-family:"Roboto";
+    font-size:50px;
+    color:grey;
+    font-weight:lighter;
+}
+.image{
+    height:500px;
+    width:500px;
+    border-radius:10px;
+}
+.button-fav-places{
+    height:200px;
+    width:700px;
+    font-size:70px;
+    border-radius:40px;
+    border-style:solid;
+    border-width:20px;
+    background-color:aqua;
+    border-color:blueviolet;
+}
+
+.detail-view-bg-container{
+    background-image:url("https://img.freepik.com/premium-photo/altar-outdoor-altar-various-christianity-paganism-religion-spiritual-symbol_922081-108826.jpg?w=1380");
+    background-size:cover;
+}
+.detail-view-heading{
+    font-family:"Roboto";
+    font-size:160px;
+    color:rgb(20, 202, 230);
+    text-decoration:underline;
+    font-weight:bolder;
+    font-style:italic;
+    text-align:center;
+}
+.temple-card-bg-container{
+    background-color:aqua;
+    border-bottom-left-radius:20px;
+    border-bottom-right-radius:20px;
+    padding:100px;
+}
+.sub-card-heading{
+    color:blueviolet;
+    font-family:"Roboto";
+    font-style:italic;
+    font-size:150px;
+    font-weight:bold;
+    text-decoration:underline;
+}
+.sub-card-paragraph{
+    font-family:"Roboto";
+    font-size:80px;
+    color:grey;
+}
+.button-temple{
+    height:300px;
+    width:800px;
+    background-color:blue;
+    border-width:20px;
+    border-style:dotted;
+    border-color:aqua;
+    color:white;
+    font-size:70px;
+    border-radius:20px;
+    text-align:center;
+    margin-right:20px;
+    margin-top:20px;
+}
+.ordered-list{
+    list-style-type:upper-roman;
+    font-size:60px;
+}
